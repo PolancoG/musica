@@ -1,6 +1,6 @@
 let playlist = [ {
-  'title': 'Here it Comes - TrackTribe',
-  'audio': "assets/Here it Comes - TrackTribe.mp3",
+  'title': 'Survivor - Eye Of The Tiger',
+  'audio': "assets/Survivor - Eye_Of_the_tiger.mp3",
 }, {
   'title': 'Mulholland - King Canyon',
   'audio': "assets/Mulholland - King Canyon.mp3",
@@ -20,8 +20,8 @@ let playlist = [ {
   'title': 'Rocky Balboa - Musica de entrenamiento',
   'audio': "assets/Rocky_Balboa-Musica_de_entrenamiento.mp3",
 }, {
-  'title': 'Survivor - Eye Of The Tiger',
-  'audio': "assets/Survivor - Eye_Of_the_tiger.mp3",
+  'title': 'Here it Comes - TrackTribe',
+  'audio': "assets/Here it Comes - TrackTribe.mp3",
 } ];
 i = 0;
 n = playlist.length;
